@@ -1,0 +1,39 @@
+﻿  ActionInProgress.cpp
+  ActionSet.cpp
+  ActionType.cpp
+  ActionTypeData.cpp
+  BOSSAssert.cpp
+  BOSSException.cpp
+  BuildOrder.cpp
+  BuildOrderPlot.cpp
+  CombatSearch.cpp
+  BOSS.cpp
+  BuildingData.cpp
+  CombatSearch_BestResponse.cpp
+c:\users\the geekiest one\google drive\school\westminster (uow)\tashkent\redrum\boss\source\bossassert.cpp(15): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\time.inl(112) : see declaration of 'localtime'
+c:\users\the geekiest one\google drive\school\westminster (uow)\tashkent\redrum\boss\source\bossassert.cpp(38): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'vsprintf'
+  CombatSearch_BestResponseData.cpp
+  CombatSearch_Bucket.cpp
+  CombatSearch_BucketData.cpp
+  CombatSearch_IntegralData.cpp
+  CombatSearchParameters.cpp
+  CombatSearchResults.cpp
+  CombatSearch_Integral.cpp
+  Constants.cpp
+  BuildOrderSearchGoal.cpp
+  DFBB_BuildOrderSearchParameters.cpp
+  DFBB_BuildOrderSearchResults.cpp
+  DFBB_BuildOrderSmartSearch.cpp
+  DFBB_BuildOrderStackSearch.cpp
+  Eval.cpp
+  GameState.cpp
+  HatcheryData.cpp
+  BOSSLogger.cpp
+  JSONTools.cpp
+  NaiveBuildOrderSearch.cpp
+  PrerequisiteSet.cpp
+  Tools.cpp
+  UnitData.cpp
+  BOSS.vcxproj -> C:\Users\The Geekiest One\Google Drive\School\Westminster (UoW)\Tashkent\RedRum\BOSS\VisualStudio\../bin/BOSS_d.lib
