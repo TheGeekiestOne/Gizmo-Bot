@@ -1,4 +1,4 @@
-# RedRum-Bot
+# Gizmo-Bot
 
 ## What is SSCAIT?
 Student StarCraft AI Tournament is an educational event, first held in 2011. It serves as a challenging competitive environment mainly for students (submissions by non-students are allowed too) of Artificial Intelligence and Computer Science. They are submitting the bots programmed in C++ or Java using BWAPI to play 1v1 StarCraft matches.
